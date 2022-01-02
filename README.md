@@ -1,34 +1,35 @@
-<div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+# LearnDev Plataformade aprendizaje - ()
 
-# StudyBuddy
-</div>
+## Built with:
+![html5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![css3](https://img.icons8.com/color/48/000000/css3.png)
+![js](https://img.icons8.com/color/48/000000/javascript--v2.png)
+![python](https://img.icons8.com/color/48/000000/python.png)
+![django](https://img.icons8.com/color/48/000000/django.png)
+![postgres](https://img.icons8.com/color/48/000000/postgreesql.png)
+![mysql](https://img.icons8.com/fluency/50/000000/mysql-logo.png)
+![docker](https://img.icons8.com/color/48/000000/docker.png)
+
+## Description:
+
+## Front-End & Back-End Deployed in: Heroku
+
+# About Me:
+
+- 🤔 I’m looking for better oportunities and projects to growth my skills and gain experience.
+- ⚡ Fun fact: I play video games, play the guitar/sing and learn new technologies very often.
+- 🔭 My Portfolio:https://brealy-padron-portfolio-react.vercel.app/
 
 
-```
+:mailbox: Reach me out!
+- 📫 How to reach me: neighbordevcr@gmail.com
 
---> Create a virtual environment :
-```bash
-# Let's install virtualenv first
-pip install virtualenv
+<p align = "center">
 
-# Then we create our virtual environment
-virtualenv envname
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
 
---> Activate the virtual environment :
-envname\scripts\activate
+</p>
 
---> Install the requirements :
-```bash
-pip install -r requirements.txt
+</hr>
 
-#
-
-### Running the App
-
---> To run the App, we use :
-```bash
-python manage.py runserver
-
-```
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nigarumovum.nigarumovum)
